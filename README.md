@@ -1,76 +1,85 @@
 <div align="center">
 
-# 👋 Hi, I'm Jason
+# 👋 Hi, I'm Jason 
 
-> Cybersecurity Enthusiast | Full-stack Developer | Software Developer
+**Software Developer • Cybersecurity Enthusiast**
+
+I specialize in building and breaking systems — developing secure applications while understanding how they fail.
 
 </div>
 
 ---
 
-## 🛠️ Technical Skills
+## 🧠 About Me
 
-### Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/React-45b8d8?style=flat&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### Backend Development
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat&logo=fastapi&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#" />
-</p>
-
-### DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Terminal-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Terminal/CLI" />
-
-  <img src="https://img.shields.io/badge/IDA%20Pro-111111?style=flat&logoColor=white" alt="IDA Pro" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Nmap-2C5AA0?style=flat&logoColor=white" alt="Nmap" />
-</p>
-
-### Development Environment
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" alt="VMware" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" alt="VirtualBox" />
-</p>
+- 🔐 Focused on **Web Security, Penetration Testing, and Reverse Engineering**
+- 💻 Full-stack developer with strong backend and API design experience
+- ⚙️ Interested in **Automation, DevOps, and Scalable Architectures**
+- 🧪 Hands-on with **Real-world Vulnerability Testing and Exploitation Replication**
 
 ---
 
-## 🤝 Connect
+## 🛠️ Technical Skills
 
-Reach out to me via:
+### 💻 Languages
 <p>
-  <a href="https://www.linkedin.com/in/jason-selerio" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/jason.selerio15" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/meepmerp0" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://discord.com/users/362110044206137346" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Discord-meepmerp0-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord: meepmerp0 (362110044206137346)" />
-  </a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-45b8d8?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Caching
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+</p>
+
+### 🚀 DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSH-000000?style=flat&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=flat&logo=composer&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
+</p>
+
+### 🖥️ Platforms & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Parrot%20OS-1f1f1f?style=flat&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/WSL-4EAA25?style=flat&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" />
+</p>
+
+### 🧱 Architecture & APIs
+<p>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVC-6C757D?style=flat&logoColor=white" />
 </p>
