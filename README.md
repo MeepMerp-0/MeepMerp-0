@@ -79,8 +79,8 @@ I build responsive web and mobile applications that improve workflows, reduce ma
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-4285F4?style=flat&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Virtual%20Machines-607078?style=flat&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Platforms-4285F4?style=flat&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Virtualization-607078?style=flat&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
