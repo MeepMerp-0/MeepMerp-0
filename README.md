@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Jason Selerio
 
-**Full-Stack Developer • UI/UX Focused • Systems Builder**
+**Full-Stack Developer • Systems Builder • UI/UX Focused**
 
 I build responsive web and mobile applications that improve workflows, reduce manual work, and deliver polished user experiences.
 
@@ -12,10 +12,10 @@ I build responsive web and mobile applications that improve workflows, reduce ma
 
 ## 🧠 About Me
 
-- 💻 Full-stack developer with experience in React, React Native, Next.js, Node.js, and Laravel.
+- 💻 Full-stack developer with experience in React, React Native, Next.js, Node.js, Laravel, and TypeScript.
 - ⚙️ Focused on operational systems, dashboards, automation, and workflow tools.
 - 📈 Interested in performance optimization, responsive UI engineering, and maintainable architecture.
-- 🧩 Experienced in building real-world products for attendance, payroll, automated workflows, and admin systems.
+- 🧩 Experienced in building real-world products for attendance, payroll, RSVP workflows, and admin systems.
 
 ---
 
@@ -65,6 +65,8 @@ I build responsive web and mobile applications that improve workflows, reduce ma
   <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=flat&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-005571?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socketdotio&logoColor=white" />
@@ -76,9 +78,13 @@ I build responsive web and mobile applications that improve workflows, reduce ma
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-4285F4?style=flat&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Virtual%20Machines-607078?style=flat&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=googleappsscript&logoColor=white" />
   <img src="https://img.shields.io/badge/SSH-000000?style=flat&logo=gnubash&logoColor=white" />
 </p>
 
@@ -119,4 +125,4 @@ STI College Muñoz-EDSA | Expected July 2026
 
 ## ✨ Currently
 
-Open to full-time opportunities, freelance projects, and collaborative builds. Let's Connect!
+Open to full-time opportunities, freelance projects, and collaborative builds.
