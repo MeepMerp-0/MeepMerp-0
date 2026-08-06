@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Jason Selerio
 
-**Full-Stack Developer • Systems Builder • UI/UX Focused**
+**Software Engineer • Full-Stack Developer • AI Workflow Builder**
 
-I build responsive web and mobile applications that improve workflows, reduce manual work, and deliver polished user experiences.
+I build scalable web and mobile applications, AI-powered workflows, and responsive digital experiences that improve operations, reduce manual work, and deliver polished user experiences.
 
 </div>
 
@@ -12,26 +12,26 @@ I build responsive web and mobile applications that improve workflows, reduce ma
 
 ## 🧠 About Me
 
-- 💻 Full-stack developer with experience in React, React Native, Next.js, Node.js, Laravel, and TypeScript.
-- ⚙️ Focused on operational systems, dashboards, automation, and workflow tools.
-- 📈 Interested in performance optimization, responsive UI engineering, and maintainable architecture.
-- 🧩 Experienced in building real-world products for attendance, payroll, RSVP workflows, and admin systems.
+- 💻 Software engineer specializing in full-stack development, AI workflow automation, and modern web applications.
+- ⚙️ Experienced with React, React Native, Next.js, Node.js, Laravel, Livewire, TypeScript, and cloud-based deployment workflows.
+- 🤖 Focused on operational systems, dashboards, automation, workflow tools, and AI-assisted business solutions.
+- 🧩 Experienced in building real-world products for attendance, payroll, RSVP workflows, admin systems, and immersive web experiences.
 
 ---
 
 ## 🚀 Featured Work
 
 - **Attendance & Payroll System**  
-  Built a full-stack web and mobile platform for security guard attendance and payroll, reducing processing time from days to instant generation.
+  Engineered a full-stack web and mobile platform for security guard attendance and payroll, cutting processing time from 5–10 days to instant generation.
 
 - **Real-Time Attendance Verification**  
-  Implemented face recognition, GPS tracking, and real-time synchronization for workforce compliance and accuracy.
+  Built real-time attendance verification using face recognition, GPS tracking, and real-time synchronization to improve compliance and reduce manual log errors.
 
 - **Wedding Website with RSVP Automation**  
-  Developed a responsive event website with Google Sheets integration, RSVP tracking, and a large dynamic photo gallery.
+  Developed a wedding website used by 50+ guests with Google Sheets integration, automated RSVP tracking, and a dynamic photo gallery with over 200 images.
 
-- **Performance Optimization**  
-  Improved page load speed by an average of 30% through responsive layout implementation and front-end optimization.
+- **AI Workflow Automation**  
+  Designing multi-agent AI workflows using n8n, APIs, and automation tools, while building AI assistants for customer communication, document generation, and internal workflows.
 
 ---
 
@@ -55,7 +55,6 @@ I build responsive web and mobile applications that improve workflows, reduce ma
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
 </p>
 
 ### 🗄️ Databases & APIs
@@ -88,6 +87,17 @@ I build responsive web and mobile applications that improve workflows, reduce ma
   <img src="https://img.shields.io/badge/SSH-000000?style=flat&logo=gnubash&logoColor=white" />
 </p>
 
+### 🤖 AI & Automation
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-4B5563?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-0F172A?style=flat&logoColor=white" />
+</p>
+
 ### 🖥️ Platforms
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
@@ -99,17 +109,17 @@ I build responsive web and mobile applications that improve workflows, reduce ma
 
 ## 📌 What I’m Interested In
 
-- System architecture and design
-- Performance optimization
-- Responsive UI/UX refinement
-- Automation and workflow tooling
-- Secure, maintainable, and scalable full-stack applications
+- AI-driven software engineering and workflow automation.
+- System architecture and scalable business solutions.
+- Performance optimization and responsive UI engineering.
+- Secure, maintainable, and production-ready full-stack applications.
+- Enterprise systems, automation tooling, and modern web experiences.
 
 ---
 
 ## 📫 Contact
 
-- **Email:** [jselerio15@gmail.com](mailto:jselerio15@gmail.com)
+- **Email:** [jasonselerio@gmail.com](mailto:jasonselerio@gmail.com)
 - **Portfolio:** [meepmerp-0.github.io](https://meepmerp-0.github.io)
 - **LinkedIn:** [linkedin.com/in/jason-selerio](https://www.linkedin.com/in/jason-selerio-44a62727a)
 - **GitHub:** [github.com/MeepMerp-0](https://github.com/MeepMerp-0)
@@ -119,10 +129,10 @@ I build responsive web and mobile applications that improve workflows, reduce ma
 ## 🎓 Education
 
 **Bachelor of Science in Information Technology**  
-STI College Muñoz-EDSA | Expected July 2026
+STI College Muñoz-EDSA | Completed July 2026 
 
 ---
 
 ## ✨ Currently
 
-Open to full-time opportunities, freelance projects, and collaborative builds.
+Working as an AI Engineer, building multi-agent workflows and AI assistants, while open to full-time opportunities, freelance projects, and collaborative builds.
