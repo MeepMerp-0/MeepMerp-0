@@ -229,13 +229,6 @@ FuturoHub’s web presence, a collection of related sites and demos, and workflo
 
 ---
 
-## Education
-
-**Bachelor of Science in Information Technology**\
-STI College Muñoz-EDSA · completed July 2026
-
----
-
 ## Get in touch
 
 The fastest way to see my work is the [portfolio](https://meepmerp-0.github.io), where Aki can answer questions about it. If you have a workflow worth automating or a team that could use this kind of help, email me at [jason.selerio@gmail.com](mailto:jason.selerio@gmail.com) or reach me on [LinkedIn](https://www.linkedin.com/in/jason-selerio-44a62727a).
